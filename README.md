@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/liaqateagle/ninja-subtitler-pro/main/assets/logo.png](https://github.com/liaqateagle/Ninja-Subtitler-Pro/blob/main/icon.png?raw=true)" width="120" alt="Ninja Subtitler Pro Logo"/>
+  <img src="https://github.com/liaqateagle/Ninja-Subtitler-Pro/blob/main/icon.png?raw=true" width="120" alt="Ninja Subtitler Pro Logo"/>
 </p>
 
 <h1 align="center">🥷 Ninja Subtitler Pro</h1>
