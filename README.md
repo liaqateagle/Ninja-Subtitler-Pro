@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/ninja-subtitler-pro/main/assets/logo.png" width="120" alt="Ninja Subtitler Pro Logo"/>
+  <img src="https://raw.githubusercontent.com/liaqateagle/ninja-subtitler-pro/main/assets/logo.png" width="120" alt="Ninja Subtitler Pro Logo"/>
 </p>
 
 <h1 align="center">🥷 Ninja Subtitler Pro</h1>
@@ -123,7 +123,7 @@ Download and use **Ninja Subtitler Pro Free** with these limits:
 
 ### 📥 Download Free Version
 
-**[⬇️ Download Ninja Subtitler Pro Free (Windows)](https://github.com/yourusername/ninja-subtitler-pro/releases/latest)**
+**[⬇️ Download Ninja Subtitler Pro Free (Windows)](https://github.com/liaqateagle/ninja-subtitler-pro/releases/latest)**
 
 ---
 
@@ -233,7 +233,7 @@ Unlock the full power of Ninja Subtitler Pro:
 
 ### 🛒 Get Pro License
 
-Visit **[azanx.com/ninja-subtitler](https://azanx.com/ninja-subtitler)** to purchase a Pro license.
+Visit **[azanx.com/tools/ninja-subtitler-pro](https://azanx.com/tools/ninja-subtitler-pro)** to purchase a Pro license.
 
 ---
 
@@ -311,7 +311,7 @@ No watermarks! The free version is fully functional, just with daily limits.
 ## 🤝 Support
 
 - 📧 **Email:** support@azanx.com
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/yourusername/ninja-subtitler-pro/issues)
+- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/liaqateagle/ninja-subtitler-pro/issues)
 - 💬 **Discord:** [Join our community](https://discord.gg/yourinvite)
 
 ---
